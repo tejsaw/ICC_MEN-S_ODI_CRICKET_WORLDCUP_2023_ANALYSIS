@@ -1,7 +1,7 @@
 # ICC MEN's ODI CRICKET WORLDCUP 2023
 This is an Analysis to gain the statistics of the ICC Men's ODI Cricket World data using Python.
 
-*(The logo below is gotten from google)*
+*(The below image is uploaded from google)*
 
 ![Trophy](https://github.com/tejsaw/ICC_MEN-S_ODI_CRICKET_WORLDCUP_2023_ANALYSIS/assets/132733816/9719e1e9-efab-4c80-93a7-70f12d3ef8da)
 
