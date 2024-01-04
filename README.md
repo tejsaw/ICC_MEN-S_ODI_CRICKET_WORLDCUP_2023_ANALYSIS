@@ -8,7 +8,7 @@ This is an Analysis to gain the statistics of the ICC Men's ODI Cricket World da
 ---
 
 ## Intoduction:
-This analysis done with Python, I extracted and analyzed data from the excel file (that is uploaded in the repo).
+This analysis done with Python, I extracted and analyzed data from the excel file (that is uploaded in the repository).
 
 The data was collected from cricbuzz (https://www.cricbuzz.com/cricket-series/6732/icc-cricket-world-cup-2023/matches) and was manually stored in an Excel File.
 
