@@ -7,10 +7,10 @@ This is an Analysis to gain the statistics of the ICC Men's ODI Cricket World da
 
 ---
 
-## Intoduction:
-This analysis done with Python, I extracted and analyzed data from the excel file (that is uploaded in the repository).
+## Introduction:
+This analysis was done with Python, I extracted and analyzed data from the Excel file (that is uploaded in the repository).
 
-The data was collected from cricbuzz (https://www.cricbuzz.com/cricket-series/6732/icc-cricket-world-cup-2023/matches) and was manually stored in an Excel File.
+The data was collected from Cricbuzz (https://www.cricbuzz.com/cricket-series/6732/icc-cricket-world-cup-2023/matches) and was manually stored in an Excel File.
 
 
 ---
@@ -18,25 +18,25 @@ The data was collected from cricbuzz (https://www.cricbuzz.com/cricket-series/67
 ## Problem Statement:
 
 The goal of the analysis is to:
-- To Check How Many Matches were Played during Entire Tournament?
+- To Check How Many Matches were Played during the Entire Tournament?
 - Which Team has who won the Final?
-- To Chek how many venues were selected for the Entire Tournament?
-- Which Team has won maximum number of matches in the Entire Tournament?
+- To check how many venues were selected for the Entire Tournament?
+- Which Team has won the maximum number of matches in the Entire Tournament?
 - Which Team has won most of the matches while chasing or defending the target?
-- Which players has won Player of the Match Awards? in an individual match and how many time they won it?
-- Which player was the highest scorer in an individual match? and how many time they won it?
-- Which player was the highest wicket taker in an individual match? and how many time they won it?
-- Which stadium was good for batting as first innings and for batting as second innings?
-- Which stadium was good for bowling as first innings and for bowling as second innings?
+- Which players have won Player of the Match Awards? in an individual match and how many times have they won it?
+- Which player was the highest scorer in an individual match? and how many times did they win it?
+- Which player was the highest wicket-taker in an individual match? and how many times did they win it?
+- Which stadium was good for batting in the first innings and for batting in the second innings?
+- Which stadium was good for bowling in the first innings and for bowling in the second innings?
 - Which stadium was ideal for Defending or Chasing the Target?
-- To check the distribiution of the data
+- To check the distribution of the data
 - To identify if there are any outliers in the data
 
 ---
 
 ## Tools Used:
 
-The following libraries of python were used for Analysis:
+The following libraries of Python were used for Analysis:
 
 1) Pandas
 2) Numpy
